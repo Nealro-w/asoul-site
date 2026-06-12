@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white text-center px-6">
-      <h1 className="text-5xl font-bold mb-6">A-SOUL 小站</h1>
+      <h1 className="text-5xl font-bold mb-6">A-SOUL 休息室</h1>
 
       <p className="text-gray-400 mb-8">
         网站建设中，敬请期待。

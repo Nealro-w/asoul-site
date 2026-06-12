@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "A-SOUL小站",
+  title: "A-SOUL休息室",
   description: "建设中...",
 };
 
